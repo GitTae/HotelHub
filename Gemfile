@@ -36,7 +36,7 @@ gem 'image_processing'
 gem 'rspec-rails', '~> 5.0'
 
 # For Bootstrap styling
-gem 'bootstrap', '~> 5.1.0'
+gem 'bootstrap', '~> 5.3.3'
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
