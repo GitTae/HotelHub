@@ -33,7 +33,7 @@ gem 'redis'
 gem 'image_processing'
 
 # For testing
-gem 'rspec-rails', '~> 5.0'
+gem 'rspec-rails', '~> 7.0'
 
 # For Bootstrap styling
 gem 'bootstrap', '~> 5.1.0'
